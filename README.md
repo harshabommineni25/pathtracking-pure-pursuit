@@ -1,2 +1,27 @@
-# pathtracking-pure-pursuit
-This project demonstrates how a vehicle can follow a path (straight, curved, or figure-8) using the Pure Pursuit algorithm. Includes simulation, visualization, telemetry plots, and optional GIF animations of the vehicle trajectory.
+🚗 Pure Pursuit Path Tracking Simulation
+
+A Python-based simulation of the Pure Pursuit algorithm for path tracking in autonomous vehicles.
+
+📌 Features
+
+Simulates Pure Pursuit path tracking on different paths (straight, curve, figure-8).
+
+Generates vehicle trajectory visualizations.
+
+Produces telemetry plots (speed, steering, lateral error).
+
+Optionally saves animations as GIFs.
+
+🖼 Example Outputs
+Vehicle Trajectory Animation
+
+Telemetry Plot
+![Screenshot](https://github.com/user-attachments/assets/575b9827-c145-4818-a3ab-0cfe96b7c186)
+
+
+
+
+Telemetry Plot
+
+
+
