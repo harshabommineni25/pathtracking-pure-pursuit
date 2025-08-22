@@ -21,7 +21,7 @@ Vehicle Trajectory Animation
 
 
  Telemetry Plot
- ![Screenshot](<img width="685" height="612" alt="Screenshot 2025-08-22 213458" src="https://github.com/user-attachments/assets/fe286a1e-2873-4a1c-8f81-2df47a4d6629" />)
+ ![Screenshot](https://github.com/user-attachments/assets/fe286a1e-2873-4a1c-8f81-2df47a4d6629)
 
 
 
