@@ -18,9 +18,6 @@ Vehicle Trajectory Animation
  ![Screenshot](https://github.com/user-attachments/assets/575b9827-c145-4818-a3ab-0cfe96b7c186)
 
 
-
-
- Telemetry Plot
  ![Screenshot](https://github.com/user-attachments/assets/fe286a1e-2873-4a1c-8f81-2df47a4d6629)
 
 
